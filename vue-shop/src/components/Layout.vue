@@ -14,7 +14,9 @@
              </div>
          </div>
      </div>
-     <div class="app-content">content</div>
+     <div class="app-content">
+       <router-view></router-view>
+     </div>
      <div class="app-foot">
        <p>@ 2017 大连东软信息学院</P>
      </div>
